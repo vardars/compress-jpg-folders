@@ -58,6 +58,8 @@ jobs:
     env:
       Solution_Name: MainUI.WPF.sln
       Test_Project_Path: ""
+      Wap_Project_Directory: MainUI.WapProject
+      Wap_Project_Path: MainUI.WapProject\MainUI.WapProject.wapproj
 
     steps:
     - name: Checkout
