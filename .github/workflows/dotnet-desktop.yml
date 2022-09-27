@@ -57,7 +57,7 @@ jobs:
 
     env:
       Solution_Name: MainUI.WPF.sln
-      Test_Project_Path: ""
+      #Test_Project_Path: ""
       Wap_Project_Directory: MainUI.WapProject
       Wap_Project_Path: MainUI.WapProject\MainUI.WapProject.wapproj
 
@@ -78,8 +78,8 @@ jobs:
       uses: microsoft/setup-msbuild@v1.0.2
 
     # Execute all unit tests in the solution
-    - name: Execute unit tests
-      run: dotnet test
+    #- name: Execute unit tests
+    #  run: dotnet test
 
     # Restore the application to populate the obj folder with RuntimeIdentifiers
     - name: Restore the application
