@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainUI.WPF", "MainUI.WPF\MainUI.WPF.csproj", "{DC5A4673-9539-4E53-9909-145FFA84E412}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompressJpgFolders.WPF", "CompressJpgFolders.WPF\CompressJpgFolders.WPF.csproj", "{DC5A4673-9539-4E53-9909-145FFA84E412}"
 EndProject
-Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "MainUI.WapProject", "MainUI.WapProject\MainUI.WapProject.wapproj", "{43287EC5-5BC8-41E2-8225-3BDA7BADD43E}"
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "CompressJpgFolders.WapProject", "CompressJpgFolders.WapProject\CompressJpgFolders.WapProject.wapproj", "{43287EC5-5BC8-41E2-8225-3BDA7BADD43E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

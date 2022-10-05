@@ -56,10 +56,10 @@ jobs:
                              # https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idruns-on
 
     env:
-      Solution_Name: MainUI.WPF.sln
+      Solution_Name: CompressJpgFolders.WPF.sln
       #Test_Project_Path: ""
-      Wap_Project_Directory: MainUI.WapProject
-      Wap_Project_Path: MainUI.WapProject\MainUI.WapProject.wapproj
+      Wap_Project_Directory: CompressJpgFolders.WapProject
+      Wap_Project_Path: CompressJpgFolders.WapProject\CompressJpgFolders.WapProject.wapproj
 
     steps:
     - name: Checkout

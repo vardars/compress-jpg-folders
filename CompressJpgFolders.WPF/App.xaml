@@ -1,7 +1,7 @@
-﻿<Application x:Class="MainUI.WPF.App"
+﻿<Application x:Class="CompressJpgFolders.WPF.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:MainUI.WPF"
+             xmlns:local="clr-namespace:CompressJpgFolders.WPF"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

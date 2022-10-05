@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Windows;
 
-namespace MainUI.WPF
+namespace CompressJpgFolders.WPF
 {
     public partial class MainWindow : Window
     {

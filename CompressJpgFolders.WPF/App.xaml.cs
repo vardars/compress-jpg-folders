@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace MainUI.WPF
+namespace CompressJpgFolders.WPF
 {
     /// <summary>
     /// Interaction logic for App.xaml
