@@ -56,7 +56,7 @@ jobs:
                              # https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idruns-on
 
     env:
-      Solution_Name: CompressJpgFolders.WPF.sln
+      Solution_Name: CompressJpgFolders.sln
       #Test_Project_Path: ""
       Wap_Project_Directory: CompressJpgFolders.WapProject
       Wap_Project_Path: CompressJpgFolders.WapProject\CompressJpgFolders.WapProject.wapproj
